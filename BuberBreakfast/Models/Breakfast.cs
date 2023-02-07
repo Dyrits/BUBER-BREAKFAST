@@ -11,7 +11,8 @@ public class Breakfast
     public List<string> Savory { get; }
     public List<string> Sweet { get; }
 
-    public Breakfast(Guid id, String name, String description, DateTime startDateTime, DateTime endDateTime, DateTime lastModifiedDateTime, List<string> savory, List<string> sweet)
+    public Breakfast(Guid id, String name, String description, DateTime startDateTime, DateTime endDateTime,
+        DateTime lastModifiedDateTime, List<string> savory, List<string> sweet)
     {
         Id = id;
         Name = name;

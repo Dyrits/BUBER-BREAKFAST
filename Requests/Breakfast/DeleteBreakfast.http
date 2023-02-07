@@ -1,1 +1,1 @@
-﻿DELETE http://localhost:5243/breakfasts/46f36375-1ee7-418e-846b-21e8c594e0bc
+﻿DELETE http://localhost:5243/breakfasts/<ID>
